@@ -1,3 +1,4 @@
+# Author: Ressom Lab
 require(Matrix)
 require(huge)
 require(igraph)
